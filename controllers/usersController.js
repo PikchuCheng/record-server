@@ -1,5 +1,5 @@
 import multer from "multer";
-import sharp from "sharp";
+// import sharp from "sharp";
 import createError from "http-errors";
 
 import User from "../models/userModel.js";
